@@ -1,18 +1,15 @@
-.btn-blue{
-  background-color: #3d3d3d;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+.btn-blue {
+  display: inline-block;
+  background-color: #007bff;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 4px;
   font-size: 16px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: background-color 0.3s ease-in-out;
+  transition: background-color 0.3s;
 }
 
 .btn-blue:hover {
-  background-color: #fff;
-  color: #3d3d3d;
+  background-color: #0056b3;
+  text-decoration: none;
+  color: white;
 }
